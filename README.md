@@ -1,139 +1,120 @@
 <div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Ahmad Akhtar — Systems, Signal, Scale" />
+</div>
 
-# Ahmad Akhtar
+<div align="center">
 
-### AI-native software engineer building systems across AI, product, backend, and hardware-facing software.
-
-I like problems where the answer is not just another interface — it is a working system connecting **models, data, workflows, software, and the real world**.
-
-[LinkedIn](https://www.linkedin.com/in/prodigy2005/) · [Email](mailto:mrahmadakhtar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/prodigy2005/) • [Email](mailto:mrahmadakhtar@gmail.com)
 
 </div>
 
 ---
 
-## Selected Engineering Work
+## / position
 
-### [PEL Product Knowledge Agent](https://github.com/AhmadAkhtar007/PEL-Product-Knowledge-Agent)
-**Multi-platform RAG system for appliance support and technical knowledge retrieval.**
+I operate at the intersection of **software, AI, product, automation, and market systems**.
 
-Built as an end-to-end AI application rather than a thin LLM wrapper: document retrieval, FastAPI services, PostgreSQL persistence, ChromaDB vector search, a Next.js web client, React Native mobile client, Dockerized infrastructure, and automated backend verification.
+I am not interested in living inside one box.
+I like building things that create **leverage** — products, workflows, interfaces, engines, and systems that move beyond code for code's sake.
 
-`Python` `FastAPI` `RAG` `PostgreSQL` `ChromaDB` `Next.js` `React Native` `Docker`
+If most programmers think in features, I prefer thinking in **systems**:
 
----
+- what is being built
+- who it moves for
+- how it scales
+- how it sells
+- how it compounds
 
-### [STOC Energy Meter Test System](https://github.com/AhmadAkhtar007/STOC-Dashboard)
-**Engineering control interface connecting modern software to Proteus / Arduino Mega test workflows.**
-
-A React + TypeScript dashboard that runs against a deterministic browser simulator or through Electron with native serial-port access. It handles controlled test sequences, waveform capture, run history, exports, and communication with an ATmega2560-based workflow.
-
-`TypeScript` `React` `Electron` `Serial` `Arduino Mega` `ATmega2560` `Proteus`
-
----
-
-### [Winter Arc 2026](https://github.com/AhmadAkhtar007/WinterArc2026)
-**Configuration-driven challenge platform with backend-enforced progression rules.**
-
-Instead of hard-coding every challenge, the system models commitments, proof requirements, cooldowns, deadlines, XP, penalties, rankings, and progression through one shared rules engine backed by Supabase / PostgreSQL.
-
-`React` `TypeScript` `Supabase` `PostgreSQL` `Vite` `Vitest`
+The pinned repositories below are the proof.
 
 ---
 
-## What I Build
+## / operating map
 
-**Applied AI systems**  
-RAG pipelines, knowledge systems, model-backed workflows, AI copilots, retrieval and automation.
+```mermaid
+graph TD
+    A[AHMAD AKHTAR]
+    A --> B[AI Systems]
+    A --> C[Product Systems]
+    A --> D[Automation]
+    A --> E[Market Thinking]
+    A --> F[Hardware-facing Software]
 
-**Product software**  
-Internal tools, SaaS products, dashboards, admin systems, mobile/web applications and workflow-heavy software.
+    B --> B1[RAG]
+    B --> B2[Agents]
+    B --> B3[Knowledge Systems]
 
-**Backend systems**  
-APIs, databases, authentication, stateful business rules, integrations and reliable data flows.
+    C --> C1[Web Apps]
+    C --> C2[Mobile]
+    C --> C3[Internal Tools]
 
-**Hardware-facing software**  
-Desktop interfaces, serial communication, Arduino / ATmega2560 systems, simulation and engineering tooling.
+    D --> D1[Workflows]
+    D --> D2[Integrations]
+    D --> D3[Operations]
 
----
+    E --> E1[Offers]
+    E --> E2[Funnels]
+    E --> E3[User Psychology]
 
-## Engineering Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**AI / Data**
-
-Python  
-RAG  
-Vector search  
-ChromaDB  
-LLM APIs
-
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-
-FastAPI  
-PostgreSQL  
-Supabase  
-REST APIs  
-Alembic
-
-</td>
-<td valign="top" width="25%">
-
-**Product**
-
-TypeScript  
-React  
-Next.js  
-React Native  
-Tailwind CSS
-
-</td>
-<td valign="top" width="25%">
-
-**Systems**
-
-Docker  
-Electron  
-Git  
-Arduino  
-Proteus
-
-</td>
-</tr>
-</table>
+    F --> F1[Electron]
+    F --> F2[Serial Interfaces]
+    F --> F3[Arduino / Proteus]
+```
 
 ---
 
-## How I Approach Engineering
+## / what makes me different
 
-- **Ground AI in real data.** Retrieval and evidence come before confident generation.
-- **Make business logic explicit.** Important rules should live in systems that can be inspected and tested.
-- **Design the failure path too.** Security boundaries, bad inputs, unavailable services and operational constraints are part of the product.
-- **Prefer reproducibility over demos that only work once.** Setup scripts, migrations, tests and documented verification matter.
-- **Keep architecture proportional to the problem.** Complexity should earn its place.
-- **Document limitations.** I would rather state an engineering boundary clearly than hide it behind polished UI.
+### 01 — I bridge worlds
+Most people stay in one lane.
+I’m interested in the edges where lanes meet:
+**technology × business**, **product × marketing**, **software × real-world systems**.
 
----
+### 02 — I care about signal
+I dislike bloat, noise, and ornamental complexity.
+The goal is clean systems, strong positioning, and useful products with real leverage.
 
-## Current Direction
-
-I am focused on **AI-native business software**: systems where AI is one component inside a useful product, not the whole product.
-
-My strongest interests sit at the intersection of:
-
-**Applied AI · Full-Stack Engineering · Product Systems · Automation · Human-Computer Interfaces**
+### 03 — I build like an operator
+I don't look at software as isolated code.
+I look at it as distribution, interface, workflow, positioning, user movement, and business consequence.
 
 ---
 
-## Contact
+## / current zones
 
-I am open to software engineering, applied AI and product engineering opportunities — especially work involving technically ambitious systems rather than isolated frontend tasks.
+```text
+AI systems         → RAG, knowledge agents, applied intelligence
+Product            → full-stack software, UX, interfaces, shipping
+Automation         → workflow design, integrations, internal ops
+Growth             → offers, funnel logic, user understanding
+Systems thinking   → leverage, architecture, compounding decisions
+```
 
-**LinkedIn:** [linkedin.com/in/prodigy2005](https://www.linkedin.com/in/prodigy2005/)  
-**Email:** [mrahmadakhtar@gmail.com](mailto:mrahmadakhtar@gmail.com)
+---
+
+## / build philosophy
+
+- **Signal > noise**
+- **Leverage > busywork**
+- **Systems > isolated features**
+- **Taste matters**
+- **Good products are technical and commercial at the same time**
+- **A generalist with depth beats a siloed specialist when the goal is building complete outcomes**
+
+---
+
+## / now
+
+Right now I’m focused on building software that feels like an unfair advantage:
+AI-native products, internal systems, intelligent workflows, and interfaces that make complex things feel sharp, clean, and powerful.
+
+If you're here, you're probably looking at the pinned work below.
+That's where the receipts are.
+
+---
+
+<div align="center">
+
+**Software. Systems. Signal.**
+
+</div>
