@@ -4,10 +4,9 @@
 
 <br/>
 
-**Builder. Operator. Systems thinker.**  
-I build leverage at the intersection of **software, AI, product, automation, and growth**.
+### I don't collect skills. I collect leverage.
 
-<br/>
+I build things, position them, explain them, automate them, and figure out how they move.
 
 <a href="https://www.linkedin.com/in/prodigy2005/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0MwQzBDMCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
 <a href="mailto:mrahmadakhtar@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=C0C0C0" /></a>
@@ -16,11 +15,117 @@ I build leverage at the intersection of **software, AI, product, automation, and
 
 <br/>
 
-### Now
+## The Thesis
 
-`Building AI-native products` · `Engineering systems & automation` · `Studying markets, people & leverage` · `Shipping`
+A technically perfect product can still disappear.
 
-### Stack
+It can solve the wrong problem. It can be positioned badly. It can confuse the person it was built for. It can ship without distribution. It can automate a process nobody should have been doing in the first place.
+
+That is why I never wanted to become *just* a programmer.
+
+I learned to care about the entire chain:
+
+**the problem → the system → the product → the message → the market → the outcome.**
+
+Code sits inside that chain. So do design, automation, positioning, persuasion, sales, and user psychology.
+
+The interesting work happens when they stop being separate disciplines.
+
+> **Code makes it work. Product makes it useful. Words make it understood. Distribution makes it matter.**
+
+That intersection is where I like to build.
+
+---
+
+## Operating Range
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### TECHNOLOGY
+
+AI systems · full-stack software  
+RAG · APIs · data · automation  
+hardware-facing interfaces
+
+</td>
+<td align="center" width="50%">
+
+### PRODUCT
+
+UX · systems architecture · shipping  
+turning ambiguous problems into  
+products people can actually use
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### BUSINESS
+
+Offers · monetization · operations  
+commercial thinking · systems leverage  
+building beyond the feature list
+
+</td>
+<td align="center" width="50%">
+
+### GROWTH & COPY
+
+Positioning · persuasive writing · funnels  
+user psychology · content · distribution  
+turning attention into movement
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## The Common Thread
+
+At first glance, writing software, designing an offer, building a funnel, wiring an Arduino, architecting a RAG pipeline, and writing a page that keeps someone reading look like unrelated skills.
+
+I don't see them that way.
+
+They are all forms of **systems design**.
+
+A backend moves data.  
+A product moves a user.  
+A workflow moves information.  
+A piece of copy moves attention.  
+A business moves value.
+
+Different medium. Same question:
+
+**What has to happen next — and how do we make that transition inevitable?**
+
+That question is probably the closest thing I have to a specialty.
+
+---
+
+## How I Build
+
+I like products that feel obvious *after* they exist.
+
+That usually means doing the difficult thinking before the interface gets polished:
+
+- finding the actual constraint instead of decorating the symptom
+- reducing complexity until every moving part earns its place
+- grounding AI in real data instead of pretending a model knows everything
+- treating positioning and distribution as product decisions, not post-launch chores
+- writing interfaces and messages so the next action feels natural
+- building repeatable systems instead of one-off demos
+- using automation for leverage, not for the sake of saying something is automated
+- keeping enough taste in the loop that technically correct does not become visually forgettable
+
+I am interested in the layer above implementation: **why this should exist, why someone should care, and why this architecture is the right way to make it real.**
+
+---
+
+## Stack
 
 <div align="center">
 
@@ -42,54 +147,27 @@ I build leverage at the intersection of **software, AI, product, automation, and
 
 </div>
 
-### Operating Range
+<br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+## What I'm Exploring Now
 
-### TECHNOLOGY
+`AI-native products` · `knowledge systems` · `agents & automation` · `productized software`
 
-AI systems · full-stack software  
-RAG · APIs · data · embedded interfaces
+`human-computer interfaces` · `distribution` · `persuasion` · `business systems`
 
-</td>
-<td align="center" width="50%">
+I am less interested in adding another framework to the list than I am in understanding how the pieces combine into something with disproportionate upside.
 
-### PRODUCT
+The pinned repositories are snapshots of that process.
 
-UX · systems architecture · shipping  
-turning messy problems into usable products
+---
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### BUSINESS
-
-Offers · monetization · operations  
-thinking beyond code into leverage
-
-</td>
-<td align="center" width="50%">
-
-### GROWTH
-
-Positioning · funnels · user psychology  
-distribution as part of the product
-
-</td>
-</tr>
-</table>
-
-### Principles
+## Principles
 
 <div align="center">
 
 `Signal > noise` · `Systems > features` · `Leverage > busywork` · `Taste matters`
 
-`Distribution is part of the product` · `Complexity must earn its place` · `Ship things that move`
+`Distribution is part of the product` · `Complexity must earn its place` · `Build things that move`
 
 </div>
 
@@ -115,6 +193,8 @@ distribution as part of the product
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:111111,100:C0C0C0&height=105&section=footer&text=Build%20with%20intent.%20Compound%20with%20discipline.&fontSize=14&fontColor=FFFFFF&fontAlignY=70" width="100%"/>
+### Build with intent. Compound with discipline.
+
+The goal was never to fit neatly inside one box.
 
 </div>
