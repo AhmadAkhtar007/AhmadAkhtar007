@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Ahmad Akhtar — Tech × Business | Product × Growth"/>
+<img src="./assets/GithubBanner.png" width="100%" alt="Ahmad Akhtar — Tech × Business | Product × Growth"/>
 
 <br/>
 <br/>
