@@ -10,13 +10,7 @@
 
 </div>
 
-I never really wanted to become a programmer.
-
-
-
----
-
-## Operating Range
+<br/>
 
 <table align="center">
 <tr>
