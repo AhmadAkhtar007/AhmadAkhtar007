@@ -12,6 +12,16 @@
 
 <br/>
 
+I never wanted to be a programmer.
+
+Which is why today I'm more than just another full-stack dev on Github.
+
+Enter my world...
+
+> "Jack of All. Master of None."
+
+<br/>
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -27,7 +37,7 @@ RAG · APIs · Automation
 ### PRODUCT
 
 UI/UX · Systems · Architecture
-User Psychology · Problem-Solving
+Problem-Solving · User Psychology
 
 </td>
 </tr>
@@ -45,7 +55,7 @@ Operations · Research
 ### GROWTH & COPY
 
 Positioning · Persuasive Writing 
-Content · Distribution  
+Distribution · Content
 
 </td>
 </tr>
