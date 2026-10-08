@@ -28,7 +28,7 @@ Enter my world...
 
 ### TECHNOLOGY
 
-AI · Full-stack Software  
+AI · Full-stack Software  <br/>
 RAG · APIs · Automation  
 
 </td>
@@ -36,8 +36,8 @@ RAG · APIs · Automation
 
 ### PRODUCT
 
-UI/UX · Systems · Architecture
-Problem-Solving · User Psychology
+UI/UX · Systems · Architecture <br/>
+User Psychology · Problem-Solving
 
 </td>
 </tr>
@@ -46,7 +46,7 @@ Problem-Solving · User Psychology
 
 ### BUSINESS
 
-Offers · Funnels · Marketing  
+Offers · Funnels · Marketing  <br/>
 Operations · Research  
 
 </td>
@@ -54,8 +54,8 @@ Operations · Research
 
 ### GROWTH & COPY
 
-Positioning · Persuasive Writing 
-Distribution · Content
+Positioning · Persuasive Writing <br/>
+Content · Distribution
 
 </td>
 </tr>
