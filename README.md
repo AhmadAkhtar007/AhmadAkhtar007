@@ -54,8 +54,7 @@ Operations · Research
 
 ### GROWTH & COPY
 
-Positioning · Persuasive Writing <br/>
-Content · Distribution
+Positioning · Content · Distribution · Persuasive Writing
 
 </td>
 </tr>
