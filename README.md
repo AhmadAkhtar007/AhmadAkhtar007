@@ -12,13 +12,16 @@
 
 <br/>
 
-I never wanted to be a programmer.
+## AI-Native Software Developer
 
-Which is why today I'm more than just another full-stack dev on Github.
+I build and troubleshoot AI-powered applications, API integrations, and automation workflows. My projects span document retrieval, full-stack software, and technical systems that connect hardware and software.
 
-Enter my world...
+I care about what happens beyond the initial build: **understanding the problem, tracing how systems behave, testing changes, and explaining technical decisions clearly.**
 
-> "Jack of All. Master of None."
+**Computer Science @ LUMS (2024–2028)** · Lahore, Pakistan  
+**Career interests:** Developer Support · Solutions Engineering · AI Implementation · Software Engineering
+
+> A systems perspective across technology, product, and business.
 
 <br/>
 
@@ -61,6 +64,13 @@ Positioning · Content · Distribution · Persuasive Writing
 </table>
 
 <br/>
+
+---
+
+## Selected work
+
+- **[Winter Arc 2026](https://github.com/AhmadAkhtar007/WinterArc2026)** — TypeScript/React application with Supabase, configurable challenge rules, and automated tests.
+- **Additional engineering work:** RAG systems, backend APIs, workflow automation, and embedded-system interfaces. Public case studies are being prepared with appropriate project permissions.
 
 ---
 
