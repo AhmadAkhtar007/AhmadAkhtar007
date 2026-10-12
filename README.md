@@ -12,7 +12,7 @@
 
 <br/>
 
-<div style="text-align: center;">
+<div align="center">
 
 ## AI-Native Software Developer
 
@@ -59,13 +59,6 @@ Positioning · Content · Distribution · Persuasive Writing
 </table>
 
 <br/>
-
----
-
-## Selected work
-
-- **[Winter Arc 2026](https://github.com/AhmadAkhtar007/WinterArc2026)** — TypeScript/React application with Supabase, configurable challenge rules, and automated tests.
-- **Additional engineering work:** RAG systems, backend APIs, workflow automation, and embedded-system interfaces. Public case studies are being prepared with appropriate project permissions.
 
 ---
 
