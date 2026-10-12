@@ -112,8 +112,6 @@ Positioning · Content · Distribution · Persuasive Writing
 
 <div align="center">
 
-### Build with intent. Compound with discipline.
-
-The goal was never to fit neatly inside one box.
+Can't fit neatly inside one box.
 
 </div>
