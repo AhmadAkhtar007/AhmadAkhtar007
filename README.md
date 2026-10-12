@@ -12,16 +12,11 @@
 
 <br/>
 
+<div style="text-align: center;">
+
 ## AI-Native Software Developer
 
-I build and troubleshoot AI-powered applications, API integrations, and automation workflows. My projects span document retrieval, full-stack software, and technical systems that connect hardware and software.
-
-I care about what happens beyond the initial build: **understanding the problem, tracing how systems behave, testing changes, and explaining technical decisions clearly.**
-
-**Computer Science @ LUMS (2024–2028)** · Lahore, Pakistan  
-**Career interests:** Developer Support · Solutions Engineering · AI Implementation · Software Engineering
-
-> A systems perspective across technology, product, and business.
+</div>
 
 <br/>
 
